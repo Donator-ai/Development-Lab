@@ -10,7 +10,7 @@ Some initial work has been carried out looking at how to concatenate XML files s
 
 ## Project
 
-![XML Files](https://github.com/Partnership-on-Generative-AI/Workspace/blob/main/media/IATI_XML_Concatenate.png)
+![XML Files](https://github.com/Donator-ai/Development-Lab/blob/main/Media/IATI_XML_Concatenate.png)
 
 IATI Data Dump makes a zipped snapshot of IATI’s entire corpus accessible to **download**. The snapshot is refreshed on a daily basis so the snapshot can change from day-to-day based on organizations updating their individual IATI XML files or adding new ones.
 
