@@ -26,4 +26,12 @@ We would like to establish conventions on how to handle the concatenation of fil
 
 We'd like to experiment with separating the XML files by publishing organization and then by files stored in organization folders.
 
-As a side project, it might be advisable for tracking and other purposes to develop an auxiliary program to collect the names of organization folders and the titles of files stored in these folders. This information can be used to support and verify proper concatenation and labeling. 
+As a side project, it might be advisable for tracking and other purposes to develop an auxiliary program to collect the names of organization folders and the titles of files stored in these folders. This information can be used to support and verify proper concatenation and labeling.
+
+### Folder and File Joins
+
+All folders in the IATI Data Dump should contain one organization file and one or more activity files. Here is is an example: Code
+
+As a goal, we would like to add comments or other separations between folders found in the IATI Data Dump and between filed found in each folder. See example comments in green below:
+
+![Code Joins](https://github.com/Donator-ai/Development-Lab/blob/main/Media/Folder-Org-Activity-Joins.png)
