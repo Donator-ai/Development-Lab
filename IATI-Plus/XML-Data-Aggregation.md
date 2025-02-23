@@ -6,7 +6,7 @@ A daily **snapshot** of IATI's entire corpus is accessible via the [IATI Data Du
 
 ## Resources
 
-Some initial work has been carried out looking at how to concatenate XML files stored in the IATI Data Dump. The code can be found [here](https://github.com/Partnership-on-Generative-AI/Workspace/blob/main/resources/ParsingXMLs2.py)
+Some initial work has been carried out looking at how to concatenate XML files stored in the IATI Data Dump. The code can be found [here](https://github.com/Donator-ai/Development-Lab/blob/main/IATI-Plus/ParsingXMLs2.py)
 
 ## Project
 
