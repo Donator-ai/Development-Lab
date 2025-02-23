@@ -1,0 +1,71 @@
+Activity Date Type,https://iatistandard.org/en/iati-standard/203/codelists/ActivityDateType/
+Activity Scope,https://iatistandard.org/en/iati-standard/203/codelists/ActivityScope/
+Activity Status,https://iatistandard.org/en/iati-standard/203/codelists/ActivityStatus/
+Aid Type,https://iatistandard.org/en/iati-standard/203/codelists/AidType/
+Aid Type (category),https://iatistandard.org/en/iati-standard/203/codelists/AidType-category/
+Aid Type Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/AidTypeVocabulary/
+Budget Identifier,https://iatistandard.org/en/iati-standard/203/codelists/BudgetIdentifier/
+Budget Identifier Sector,https://iatistandard.org/en/iati-standard/203/codelists/BudgetIdentifierSector/
+Budget Identifier Sector (category),https://iatistandard.org/en/iati-standard/203/codelists/BudgetIdentifierSector-category/
+Budget Identifier Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/BudgetIdentifierVocabulary/
+Budget Not Provided,https://iatistandard.org/en/iati-standard/203/codelists/BudgetNotProvided/
+Budget Status,https://iatistandard.org/en/iati-standard/203/codelists/BudgetStatus/
+Budget Type,https://iatistandard.org/en/iati-standard/203/codelists/BudgetType/
+CRS Additional Other Flags,https://iatistandard.org/en/iati-standard/203/codelists/CRSAddOtherFlags/
+CRS Channel Code,https://iatistandard.org/en/iati-standard/203/codelists/CRSChannelCode/
+Cash and Voucher Modalities,https://iatistandard.org/en/iati-standard/203/codelists/CashandVoucherModalities/
+Collaboration Type,https://iatistandard.org/en/iati-standard/203/codelists/CollaborationType/
+Condition Type,https://iatistandard.org/en/iati-standard/203/codelists/ConditionType/
+Contact Type,https://iatistandard.org/en/iati-standard/203/codelists/ContactType/
+Country,https://iatistandard.org/en/iati-standard/203/codelists/Country/
+Currency,https://iatistandard.org/en/iati-standard/203/codelists/Currency/
+Description Type,https://iatistandard.org/en/iati-standard/203/codelists/DescriptionType/
+Disbursement Channel,https://iatistandard.org/en/iati-standard/203/codelists/DisbursementChannel/
+Document Category,https://iatistandard.org/en/iati-standard/203/codelists/DocumentCategory/
+Document Category (category),https://iatistandard.org/en/iati-standard/203/codelists/DocumentCategory-category/
+Earmarking Category,https://iatistandard.org/en/iati-standard/203/codelists/EarmarkingCategory/
+File Format,https://iatistandard.org/en/iati-standard/203/codelists/FileFormat/
+Finance Type,https://iatistandard.org/en/iati-standard/203/codelists/FinanceType/
+Finance Type (category),https://iatistandard.org/en/iati-standard/203/codelists/FinanceType-category/
+Flow Type,https://iatistandard.org/en/iati-standard/203/codelists/FlowType/
+Gazetteer Agency,https://iatistandard.org/en/iati-standard/203/codelists/GazetteerAgency/
+Geographic Exactness,https://iatistandard.org/en/iati-standard/203/codelists/GeographicExactness/
+Geographic Location Class,https://iatistandard.org/en/iati-standard/203/codelists/GeographicLocationClass/
+Geographic Location Reach,https://iatistandard.org/en/iati-standard/203/codelists/GeographicLocationReach/
+Geographic Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/GeographicVocabulary/
+Geographical Precision,https://iatistandard.org/en/iati-standard/203/codelists/GeographicalPrecision/
+Humanitarian Scope Type,https://iatistandard.org/en/iati-standard/203/codelists/HumanitarianScopeType/
+Humanitarian Scope Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/HumanitarianScopeVocabulary/
+IATI Organisation Identifier,https://iatistandard.org/en/iati-standard/203/codelists/IATIOrganisationIdentifier/
+Indicator Measure,https://iatistandard.org/en/iati-standard/203/codelists/IndicatorMeasure/
+Indicator Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/IndicatorVocabulary/
+Language,https://iatistandard.org/en/iati-standard/203/codelists/Language/
+Loan Repayment Period,https://iatistandard.org/en/iati-standard/203/codelists/LoanRepaymentPeriod/
+Loan Repayment Type,https://iatistandard.org/en/iati-standard/203/codelists/LoanRepaymentType/
+Location Type,https://iatistandard.org/en/iati-standard/203/codelists/LocationType/
+Location Type (category),https://iatistandard.org/en/iati-standard/203/codelists/LocationType-category/
+Organisation Identifier,https://iatistandard.org/en/iati-standard/203/codelists/OrganisationIdentifier/
+Organisation Registration Agency,https://iatistandard.org/en/iati-standard/203/codelists/OrganisationRegistrationAgency/
+Organisation Role,https://iatistandard.org/en/iati-standard/203/codelists/OrganisationRole/
+Organisation Type,https://iatistandard.org/en/iati-standard/203/codelists/OrganisationType/
+Other Identifier Type,https://iatistandard.org/en/iati-standard/203/codelists/OtherIdentifierType/
+Policy Marker,https://iatistandard.org/en/iati-standard/203/codelists/PolicyMarker/
+Policy Marker Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/PolicyMarkerVocabulary/
+Policy Significance,https://iatistandard.org/en/iati-standard/203/codelists/PolicySignificance/
+Publisher Type,https://iatistandard.org/en/iati-standard/203/codelists/PublisherType/
+Region,https://iatistandard.org/en/iati-standard/203/codelists/Region/
+Region Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/RegionVocabulary/
+Related Activity Type,https://iatistandard.org/en/iati-standard/203/codelists/RelatedActivityType/
+Result Type,https://iatistandard.org/en/iati-standard/203/codelists/ResultType/
+Result Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/ResultVocabulary/
+DAC 5 Digit Sector,https://iatistandard.org/en/iati-standard/203/codelists/Sector/
+DAC 3 Digit Sector,https://iatistandard.org/en/iati-standard/203/codelists/SectorCategory/
+Sector Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/SectorVocabulary/
+Tag Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/TagVocabulary/
+Tied Status,https://iatistandard.org/en/iati-standard/203/codelists/TiedStatus/
+Transaction Type,https://iatistandard.org/en/iati-standard/203/codelists/TransactionType/
+UN Sustainable Development Goals (SDG),https://iatistandard.org/en/iati-standard/203/codelists/UNSDG-Goals/
+UN Sustainable Development Goals (SDG) Targets,https://iatistandard.org/en/iati-standard/203/codelists/UNSDG-Targets/
+Verification Status,https://iatistandard.org/en/iati-standard/203/codelists/VerificationStatus/
+Version,https://iatistandard.org/en/iati-standard/203/codelists/Version/
+Vocabulary,https://iatistandard.org/en/iati-standard/203/codelists/Vocabulary/
