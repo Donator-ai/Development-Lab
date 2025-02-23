@@ -30,7 +30,7 @@ As a side project, it might be advisable for tracking and other purposes to deve
 
 ### Folder and File Joins
 
-All folders in the IATI Data Dump should contain one organization file and one or more activity files. Here is is an example: Code
+All folders in the IATI Data Dump should contain one organization file and one or more activity files. Here is is an example: [Code](https://github.com/Donator-ai/Development-Lab/blob/main/Resources/Folder-Org-Activity-Joins.xml)
 
 As a goal, we would like to add comments or other separations between folders found in the IATI Data Dump and between filed found in each folder. See example comments in green below:
 
