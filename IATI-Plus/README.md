@@ -1,4 +1,4 @@
-![IATI Plus Logo](https://github.com/Donator-ai/Development-Lab/blob/main/Media/IATIPlus.png)
+![IATI Plus Logo](https://github.com/Donator-ai/Development-Lab/blob/main/Media/IATIPlus_db.png)
 
 Donator's humanitarian crowdfunding platform is powered by our lab's **IATI Plus** graph database.
 
