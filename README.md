@@ -8,7 +8,7 @@ We are currently recruiting volunteers to collaborate on our projects. Stay tune
 
 ## Current Work
 
-The following projects are currently underway:
+The following is a high level list of projects that are currently underway. Members of the Development Lab can access the team's detailed Activity List.
 
 | Project  | Description |
 | ------------- | ------------- |
