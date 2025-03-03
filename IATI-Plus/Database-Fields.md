@@ -4,7 +4,7 @@ IATI is an XML standard and open data sharing framework widely used across the h
 
 ## Previous Work
 
-We sucessfully loaded an initial IATI snapshot into a graph database. Here is a list of the graph's [labels and properties](https://github.com/Donator-ai/Development-Lab/blob/main/Resources/Beta_Labels_Properties.csv).
+We sucessfully loaded an initial IATI snapshot into a graph database. Here is a list of the graph's [Labels and Properties](https://github.com/Donator-ai/Development-Lab/blob/main/Resources/Beta_Labels_Properties.csv).
 
 ## Current Work
 
