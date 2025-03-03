@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iati-organisations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="2.03" generated-datetime="2025-01-26T07:07:33.0662716+00:00">
+	<iati-organisation last-updated-datetime="2025-01-26T00:00:00+00:00" xml:lang="en" default-currency="USD">
+		<organisation-identifier xsi:type="xsd:string">47045</organisation-identifier>
+		<name>
+			<narrative xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</narrative>
+		</name>
+	</iati-organisation>
+</iati-organisations>
+<?xml version="1.0" encoding="utf-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="2.03" generated-datetime="2025-01-26T07:11:48.6420777+00:00" linked-data-default="http://data-service.theglobalfund.org/api">
+	<iati-activity last-updated-datetime="2025-01-26T00:00:00+00:00" xml:lang="en" default-currency="USD" humanitarian="false" hierarchy="1">
+		<iati-identifier>47045-YEM-307-G05-H</iati-identifier>
+		<reporting-org ref="47045" type="30" secondary-reporter="false">
+			<narrative xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</narrative>
+		</reporting-org>
+		<title>
+			<narrative xml:lang="en">Yemen - HIV - United Nations Development Programme</narrative>
+		</title>
+	</iati-activity>
+	<iati-activity last-updated-datetime="2025-01-26T00:00:00+00:00" xml:lang="en" default-currency="USD" humanitarian="false" hierarchy="1">
+		<iati-identifier>47045-YEM-202-G01-M-00</iati-identifier>
+		<reporting-org ref="47045" type="30" secondary-reporter="false">
+			<narrative xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</narrative>
+		</reporting-org>
+		<title>
+			<narrative xml:lang="en">Yemen - Malaria - National Malaria Control Programme of the Ministry of Health and Population of the Republic of Yemen</narrative>
+		</title>
+	</iati-activity>
+</iati-activities>
+<?xml version="1.0" encoding="utf-8"?>
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="2.03" generated-datetime="2025-01-26T07:08:35.0341458+00:00" linked-data-default="http://data-service.theglobalfund.org/api">
+	<iati-activity last-updated-datetime="2025-01-26T00:00:00+00:00" xml:lang="en" default-currency="USD" humanitarian="false" hierarchy="1">
+		<iati-identifier>47045-DZA-H-MOH</iati-identifier>
+		<reporting-org ref="47045" type="30" secondary-reporter="false">
+			<narrative xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</narrative>
+		</reporting-org>
+		<title>
+			<narrative xml:lang="en">Transition - Support for the 2020-2024 STI/HIV/AIDS National Strategic Plan</narrative>
+		</title>
+	</iati-activity>
+	<iati-activity last-updated-datetime="2025-01-26T00:00:00+00:00" xml:lang="en" default-currency="USD" humanitarian="false" hierarchy="1">
+		<iati-identifier>47045-DZA-304-G01-H</iati-identifier>
+		<reporting-org ref="47045" type="30" secondary-reporter="false">
+			<narrative xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</narrative>
+		</reporting-org>
+		<title>
+			<narrative xml:lang="en">Algeria - HIV - Ministry of Health, Population and Hospital Reform of the People's Democratic Republic of Algeria</narrative>
+		</title>
+	</iati-activity>
+</iati-activities>
