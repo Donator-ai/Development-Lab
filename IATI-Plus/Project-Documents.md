@@ -1,4 +1,4 @@
-# List of Documents on IATI Plus sub-projects and tasks
+# List of Documents on IATI Plus Sub-projects and Tasks
 
 | File  | Description |
 | ------------- | ------------- |
