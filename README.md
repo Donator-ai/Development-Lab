@@ -2,6 +2,10 @@
 
 The development lab brings together volunteers and partners interested in helping work on [Donator](https://github.com/Donator-ai/About/blob/main/README.md) and on [IATI Plus](https://github.com/Donator-ai/Development-Lab/tree/main/IATI-Plus), it's backend database.
 
+## Get Involved
+
+We are currently recruiting volunteers to collaborate on our projects. Stay tuned for more details.
+
 ## Current Work
 
 The following projects are currently underway:
