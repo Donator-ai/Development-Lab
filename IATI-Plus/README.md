@@ -4,7 +4,8 @@ For the benefit of the humanitarian community, volunteers from Donator's **Devel
 
 ## Data Source
 
-**IATI** is an XML standard and open data sharing framework widely used across the humanitarian community that is managed by the [Internatioinal Aid Transparency Initiative](https://iatistandard.org/en/). Currently, over 1700 organizations are channeling information on aid activities, transactions and results through the framework. **IATI Plus** is a fully up-to-date, graphed version of IATI's entire corpus which contains information on over 900,000 activities.
+**IATI** is an XML standard and open data sharing framework widely used across the humanitarian community that is managed by the [Internatioinal Aid Transparency Initiative](https://iatistandard.org/en/). Currently, over 1700 organizations are channeling information on aid activities, transactions and results through the framework. **IATI Plus** is a fully up-to-date, graphed version of IATI's entire corpus. The corpus contains over 15GB of information 
+formatted in highly structured XML code on over 900,000 activities.
 
 ## Architecture
 
