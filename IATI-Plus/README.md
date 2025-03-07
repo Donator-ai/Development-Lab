@@ -15,7 +15,7 @@ IATI data is highly structured making IATI an ideal data source for machine appl
 
 ## Layering
 
-IATI Plus isn't designed to replace IATI. The database can be compared to a Geographic Information System (GIS). It is a clone that works like an identical overlayer, but a robust one geared to me queried by consumer grade applications operating at scale and in more complex ways than IATI can be traversed. 
+IATI Plus isn't designed to replace IATI. The database can be compared to a Geographic Information System (GIS). It is a clone that works like an identical overlayer, but a robust one geared to be queried by consumer grade applications operating at scale and in more complex ways than IATI can be traversed. 
 
 ## Benefits
 
