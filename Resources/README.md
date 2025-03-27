@@ -2,7 +2,7 @@
 
 The following is a list of development lab resources
 
-| Resource  | Description | Description |
+| Resource  | Description | URL |
 | ------------- | ------------- | ------------- |
 | Sample IATI organization file  | Sample Organization XML file provided by IATI.   | https://github.com/Donator-ai/Development-Lab/blob/main/Resources/IATI_Organization.xml  |
 | Sample IATI activity file  | Sample Activity XML file provided by IATI.   | https://github.com/Donator-ai/Development-Lab/blob/main/Resources/IATI_Activity.xml  |
