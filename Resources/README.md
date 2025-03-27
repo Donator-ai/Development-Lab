@@ -12,3 +12,4 @@ The following is a list of development lab resources
 | IATI Codelists  | IATI Standard codelists and URLs for more information | https://github.com/Donator-ai/Development-Lab/blob/main/Resources/IATI%20Codelists.csv  |
 | IATI File with information on Organization and two activities  | Example IATI file containing organixation information and information on two activities  | https://github.com/Donator-ai/Development-Lab/blob/main/Resources/Org-Two-Activities.xml  |
 | Sample IATI Plus joins between folders and files  | Simple sample IATI XML file illustrating ways of joining folder and file information  | https://github.com/Donator-ai/Development-Lab/blob/main/Resources/Folder-Org-Activity-Joins.xml  |
+| Initial IATI snapshot generator | Our initial code tp download an snapshot from the IATI Data Dump and concatinate the files | https://github.com/Donator-ai/Development-Lab/blob/main/Resources/main.py |
