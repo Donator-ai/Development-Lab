@@ -14,3 +14,4 @@ The following is a list of development lab resources
 | Sample IATI Plus joins between folders and files  | Simple sample IATI XML file illustrating ways of joining folder and file information  | https://github.com/Donator-ai/Development-Lab/blob/main/Resources/Folder-Org-Activity-Joins.xml  |
 | Initial IATI snapshot generator | Our initial code tp download an snapshot from the IATI Data Dump and concatinate the files | https://github.com/Donator-ai/Development-Lab/blob/main/Resources/main.py |
 | Unzipped IATI snapshot | A whole single IATI snapshot that's in one large unziped XML file | https://storage.googleapis.com/iati_snapshots/iati-data-s1v1.xml |
+| Oxfam example activity file | A single XML file published by Oxfam covering 401 individual activities | https://aidstream.s3.us-west-2.amazonaws.com/xml/oxfamus-activities.xml |
